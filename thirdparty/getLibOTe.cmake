@@ -1,7 +1,7 @@
 
 set(USER_NAME           )      
 set(TOKEN               )      
-set(GIT_REPOSITORY      "https://github.com/osu-crypto/libOTe.git")
+set(GIT_REPOSITORY      "https://github.com/elimbaum/libOTe.git")
 set(GIT_TAG             "")
 
 set(DEP_NAME            libOTe)          
